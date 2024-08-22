@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asoudu
+- 👋 Hi, I’m Asoudu
 - 👀 I’m interested in codding and web development.
 - 🌱 I’m currently learning html and python.
 - 📫 How to reach me: dpshesou@gmail.com
